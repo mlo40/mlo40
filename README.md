@@ -1,5 +1,6 @@
-### Hi there 👋 I am emlo40
-I badly make all sorts of stuf that you will never see publicly on this account
+### Hi there 👋 I'm emlo40
+I create various trashy projects.
+I am always willing to assist with any issues that may arise when using them.
 
 <!--
 this is my profile repo thing there isnt much i just did this because i could.
